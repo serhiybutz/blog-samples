@@ -374,10 +374,10 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		40CD56BE23D23554009AA861 /* XCRemoteSwiftPackageReference "Themer" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/SergeBouts/Themer.git";
+			repositoryURL = "https://github.com/serhiybutz/Themer.git";
 			requirement = {
 				kind = upToNextMinorVersion;
-				minimumVersion = 1.1.0;
+				minimumVersion = 1.2.0;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */

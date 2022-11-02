@@ -495,7 +495,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		4087C25C24EB7810001FE2DA /* XCRemoteSwiftPackageReference "XCombine" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/SergeBouts/XCombine.git";
+			repositoryURL = "https://github.com/serhiybutz/XCombine.git";
 			requirement = {
 				branch = master;
 				kind = branch;
